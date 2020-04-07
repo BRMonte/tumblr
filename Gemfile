@@ -65,3 +65,6 @@ gem 'bootstrap-sass'
 
 gem "devise"
 
+gem 'font-awesome-sass'
+
+gem 'simple_form'
